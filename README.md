@@ -54,20 +54,10 @@
 <details>
   <summary>💡 More GitHub Insights</summary>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunarVagabond&theme=radical" alt="GitHub Streak Stats">
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunarVagabond&theme=react-dark" alt="GitHub Activity Graph">
   </p>
 </details>
 
 ---
-
-## 📂 **Pinned Repositories**
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=radical">
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/ANOTHER_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ANOTHER_REPO&theme=radical">
-  </a>
-</p>
