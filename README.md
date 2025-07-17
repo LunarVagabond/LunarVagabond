@@ -62,19 +62,3 @@
 </details>
 
 ---
-
-  ## 💡 GitHub Stats
-<details>
-  <summary>Some cool Charts</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunarVagabond&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunarVagabond&theme=radical" alt="GitHub Streak Stats">
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunarVagabond&theme=react-dark" alt="GitHub Activity Graph">
-  </p>
-</details>
-
----
